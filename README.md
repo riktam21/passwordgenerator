@@ -1,5 +1,1 @@
--Developed a secured and customizable password generator using HTML, CSS, and JavaScript.
--Customizable Password Criteria: Implemented options for users to select uppercase letters, lowercase letters, numbers, and symbols.
--Password Strength Indicator: Created a feature to dynamically display the strength of the generated password.
--Real-time Feedback: Integrated real-time feedback mechanism to display password strength as users modify criteria.
--Security: Employed strong JavaScript algorithms to generate secure passwords as per user needs.
+Developed a secured and customizable password generator using HTML, CSS, and JavaScript. It has Customizable Password Criteria: Implemented options for users to select uppercase letters, lowercase letters, numbers, and symbols. Used a Password Strength Indicator: Created a feature to dynamically display the strength of the generated password and has Real-time Feedback: Integrated real-time feedback mechanism to display password strength as users modify criteria and used strong JavaScript algorithms to generate secure passwords as per user needs.
